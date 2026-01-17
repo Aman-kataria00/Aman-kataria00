@@ -1,9 +1,10 @@
 # 💫 About Me:
-i'm currently working on building skills.<br>skills like excel,sql,python,power bi.<br>
+i'm currently working on building skills.<br>skills like excel,sql,python,power bi
+certified Data Analyst (deloitte) with hands on experience in sql,python,excel and power bi,delivering data, Cleaning Data Insight through dashboards,automation and Analytical report.<br>
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/aman) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_kataria00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aman-kataria) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amankatariya2268@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aman_kataria00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aman-kataria) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amankatariya2268@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
