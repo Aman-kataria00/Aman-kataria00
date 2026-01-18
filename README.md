@@ -1,6 +1,7 @@
 # 💫 About Me:
 i'm currently working on building skills.<br>skills like excel,sql,python,power bi
-certified Data Analyst (deloitte) with hands on experience in sql,python,excel and power bi,delivering data, Cleaning Data Insight through dashboards,automation and Analytical report.<br>
+certified Data Analyst (deloitte) with hands on experience in sql,python,excel and power bi,delivering data, Cleaning Data Insight through dashboards,automation and Analytical report.
+Achieved Tata GenAI Data Analytics Certification, validating expertise in applying generative AI techniques to extract insights, optimize decision-making, and drive data-driven strategies.<br>
 
 
 ## 🌐 Socials:
